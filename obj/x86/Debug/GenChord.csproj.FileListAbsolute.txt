@@ -1,0 +1,7 @@
+D:\project\GenChord\bin\Debug\GenChord.exe
+D:\project\GenChord\bin\Debug\GenChord.pdb
+D:\project\GenChord\obj\x86\Debug\GenChord.Form1.resources
+D:\project\GenChord\obj\x86\Debug\GenChord.Properties.Resources.resources
+D:\project\GenChord\obj\x86\Debug\GenChord.csproj.GenerateResource.Cache
+D:\project\GenChord\obj\x86\Debug\GenChord.exe
+D:\project\GenChord\obj\x86\Debug\GenChord.pdb
